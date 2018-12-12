@@ -1,7 +1,7 @@
-## 推荐几个好用的wordpress国外虚拟主机
-![2019wordpress主机推荐，wordpress博客，国外wordpress主机，香港虚拟主机，稳定好用的wordpress虚拟主机](https://i.ibb.co/T0xPbjx/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
+## 推荐几个好用的wordpress国外虚拟主机，免备案，长期更新
+![2019wordpress主机推荐，免备案主机，wordpress博客，国外wordpress主机，香港虚拟主机，稳定好用的wordpress虚拟主机](https://i.ibb.co/T0xPbjx/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
 
-wordpress是目前互联网上最受欢迎的博客系统，本页面主要用来分享几个稳定、快速、好用的wordpress国外虚拟主机，长期更新。
+wordpress是目前互联网上最受欢迎的博客系统，本页面主要用来分享几个稳定、快速、好用的wordpress国外虚拟主机，不用备案，长期更新。
 
 不要用免费的域名或主机，原因很简单，免费的通常都不靠谱，免费的才是最贵的；也不建议用国内的，不多解释。
 
