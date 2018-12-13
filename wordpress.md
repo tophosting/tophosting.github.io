@@ -1,6 +1,6 @@
 ## the best wordpress hosting services for your website/blog in year 2019
 
-wordpress is the most popular blogging/website management platform, according to wikipedia that there are 30.6% of the top 10 million websites are created based on wordpress, so if you want to set up your own website, wordpress is the absolutely right choice.
+wordpress is the most popular blogging/website management platform, according to wikipedia that there are 30.6% of the top 10 million websites are created based on wordpress, so if you want to set up your own self-hosted website, wordpress is the absolutely right choice.
 
 ![best wordpress hosting 2019, web hosting china, wp hosting alipay](https://i.ibb.co/MMLwpCS/wordpress-website-hosting.jpg "top self-hosted solutions for your wordpress website")
 
