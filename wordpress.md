@@ -6,7 +6,7 @@ wordpress is the most popular blogging/website management platform, according to
 
 web hosting, domain name and your contents are the 3 important parts of your blog/website, this page will share some very good web hosting services for you to create a good wordpress website.
 
-web hosting is where you put your contents of your website, a good web hosting should be speed fast, reliable and secure, so that your visitors can visit your blog/website at any time, and you shall be not worried about your sites are hacked by someone. do NOT try to use a free hosting and domain, the reason is very simple that both free hosting and domain are unstable and unsecured, always keep it in mind that "free" is the most expensive on our planet.
+web hosting is where you put your contents of your website, a good web hosting should be speed fast, reliable and secure, so that your visitors can visit your blog/website at any time, and you shall be not worried about your sites are hacked by someone. do NOT try to use a free hosting and domain, the reason is very simple that both free hosting and domain are unstable and unsecured, always keep it in mind that "free" is the most expensive on our planet. btw, if you want to buy a domain name, [namesilo](https://www.namesilo.com/?rid=adf2827hj) is the recommended place.
 
 all these web hosting services listed below supports one-click quick installation of wordpress, all of them allow to refund within the specified time after purchase, so you can refund your money back in time if you're not satisfied. you can pay online via paypal or credit cards, if you are from china, most of them accept alipay(支付宝 zhi fu bao)
 
