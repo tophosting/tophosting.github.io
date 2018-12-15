@@ -1,6 +1,6 @@
 ## the best wordpress hosting services for your website/blog in year 2019
 
-wordpress is the most popular blogging/website management platform, according to wikipedia that there are 30.6% of the top 10 million websites are created based on wordpress, so if you want to set up your own self-hosted website, wordpress is the absolutely right choice.
+wordpress is the most popular blogging/website management platform, according to wikipedia that there are more than 30.6% of the top 10 million websites are created based on wordpress, so if you want to set up your own self-hosted website, wordpress is the absolutely right choice.
 
 ![best wordpress hosting 2019, web hosting china, wp hosting alipay](https://i.ibb.co/MMLwpCS/wordpress-website-hosting.jpg "top self-hosted solutions for your wordpress website")
 
@@ -10,7 +10,7 @@ web hosting is where you put your contents of your website, a good web hosting s
 
 all these web hosting services listed below supports one-click quick installation of wordpress, all of them allow to refund within the specified time after purchase, so you can refund your money back in time if you're not satisfied. you can pay online via paypal or credit cards, if you are from china, most of them accept alipay(支付宝 zhi fu bao)
 
-[. Bluehost](https://www.bluehost.com/track/ykq/) is top veteran US web hosting provider with a good reputation, established in Utah in 2003, there are more than 2 million websites built here, it is officially recommended by WordPress org. 30-day money back guarantee, free SSL certificate.
+[. Bluehost](https://www.bluehost.com/track/ykq/) is a top veteran US web hosting provider with a good reputation, established in Utah in 2003, there are more than 2 million websites built here, it is officially recommended by WordPress org. 30-day money back guarantee, free SSL certificate.
 
 [. Dreamhost](https://mbsy.co/rdmwW), company located in California of united states, founded in 1997, it has long partnership with wordpress org, very good uptime, its website hosting offers a free* domain name and email hosting for your website/blog, if you’re not completely satisfied, you can simply cancel within 97 days for a full refund.
 
