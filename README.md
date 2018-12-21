@@ -1,14 +1,14 @@
-## 推荐几个好用的wordpress国外虚拟主机，免备案，长期更新
+## 推荐几个好用的wordpress国外虚拟主机，免备案，长期更新 2019
 
 *visit [this page](https://tophosting.github.io/wordpress) if you read English*
 
-![2019wordpress主机推荐，免备案主机，wordpress博客，国外wordpress主机，香港虚拟主机，稳定好用的wordpress虚拟主机](https://i.ibb.co/T0xPbjx/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
+![2019wordpress博客主机推荐，免备案主机，wordpress网站，国外wordpress主机，香港虚拟主机，稳定好用的wordpress虚拟主机](https://i.ibb.co/T0xPbjx/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
 
-wordpress是目前互联网上最受欢迎的博客系统，全球前1000万的网站中，有超过30.6%的网站是用wordpress搭建的，所以如果你要搭建自己的博客或者网站的话，wordpress是一个很好的选择，本页面主要用来分享几个稳定、快速、好用的wordpress国外虚拟主机，不用备案，长期更新。
+wordpress是目前互联网上最受欢迎的博客系统，全球前1000万的网站中，有超过30.6%的网站是用wordpress搭建的，所以如果你要搭建自己的独立博客或者网站的话，wordpress是一个很好的选择，本页面主要用来分享几个稳定、快速、好用的wordpress国外虚拟主机，不用备案，长期更新。
 
 不要用免费的域名或主机，原因很简单，免费的通常都不靠谱，免费的才是最贵的，俗话说得好：便宜无好货，好货不便宜；也不建议用国内的，不多解释。另外，注册域名的话，非常建议在[namesilo](https://www.namesilo.com/?rid=adf2827hj)上购买，简单好用没有骚扰邮件等。
 
-购买周期、空间大小、价格等具体内容，请到其各自的官方网站了详细了解，然后根据你的需要和偏好选择一个合适的。
+购买周期、空间大小、价格等具体内容，请到其各自的官方网站了详细了解，然后根据你的需要和偏好为你的博客或网站选择一个合适的虚拟主机。
 
 怎么样？
 以下所列出的国外虚拟主机都支持在第一次购买之后的规定期限内发起退款，so使用效果不满意的话，可以及时进行退款；都支持wordpress网站的快速安装。
