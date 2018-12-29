@@ -2,7 +2,9 @@
 
 *visit [this page](https://tophosting.github.io/wordpress) if you read English*
 
-![2019wordpress博客主机推荐，免备案主机，wordpress网站，国外wordpress主机，香港虚拟主机，稳定好用的wordpress虚拟主机](https://i.ibb.co/T0xPbjx/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
+![2019年wordpress博客主机推荐，免备案主机，wordpress网站，国外wordpress主机推荐，香港虚拟主机，美国主机，稳定好用的wordpress虚拟主机](https://i.ibb.co/T0xPbjx/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
+
+工欲善其事，必先利其器
 
 wordpress是目前互联网上最受欢迎的博客系统，全球前1000万的网站中，有超过30.6%的网站是用wordpress搭建的，所以如果你要搭建自己的独立博客或者网站的话，wordpress是一个很好的选择，本页面主要用来分享几个稳定、快速、好用的wordpress国外虚拟主机，不用备案，长期更新。
 
@@ -25,3 +27,5 @@ wordpress是目前互联网上最受欢迎的博客系统，全球前1000万的�
 
 /
 关于选择主机方面，中文网站的话，通常推荐选用位于亚洲的虚拟主机空间，比如在中国香港、新加坡、韩国首尔或日本东京等地的主机。
+
+本文长期更新
