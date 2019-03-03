@@ -2,7 +2,7 @@
 
 wordpress is the most popular blogging/website management platform, according to wikipedia that there are more than 30.6% of the top 10 million websites are created based on wordpress, so if you want to set up your own self-hosted website, wordpress is the absolutely right choice.
 
-![best wordpress hosting 2019, web hosting china, wp hosting alipay](https://i.ibb.co/MMLwpCS/wordpress-website-hosting.jpg "top self-hosted solutions for your wordpress website")
+![best wordpress hosting 2019, web hosting china, wp hosting alipay](https://raw.githubusercontent.com/tophosting/tophosting.github.io/master/img/wordpress-website-hosting.jpg "top self-hosted solutions for your wordpress website")
 
 web hosting, domain name and your contents are the 3 important parts of your blog/website, this page will share some very good web hosting services for you to create a good wordpress website.
 
