@@ -2,7 +2,7 @@
 
 *visit [this page](https://tophosting.github.io/wordpress) if you read English*
 
-![2019年wordpress博客主机推荐，免备案主机，wordpress网站，国外wordpress主机推荐，香港虚拟主机，美国主机，稳定好用的wordpress虚拟主机](https://i.ibb.co/T0xPbjx/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
+![2019年wordpress博客主机推荐，免备案主机，wordpress网站，国外wordpress主机推荐，香港虚拟主机，美国主机，稳定好用的wordpress虚拟主机](https://raw.githubusercontent.com/tophosting/tophosting.github.io/master/img/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
 
 工欲善其事，必先利其器
 
