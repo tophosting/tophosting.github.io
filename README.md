@@ -1,6 +1,4 @@
-## 推荐几个稳定好用的wordpress国外虚拟主机，免备案，长期更新 2019
-
-*visit [this page](https://tophosting.github.io/wordpress) if you read English*
+## 推荐几个稳定好用的wordpress国外虚拟主机(云主机 服务器等)，免备案，长期更新 2019
 
 ![2019年wordpress博客主机推荐，免备案主机，wordpress网站，国外wordpress主机推荐，香港虚拟主机，美国主机，稳定好用的wordpress虚拟主机](https://raw.githubusercontent.com/tophosting/tophosting.github.io/master/img/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
 
@@ -26,7 +24,7 @@
 [. site ground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c)，这个很不错，2003年在美国的田纳西州注册成立，它着重专注于对托管wordpress的支持和优化，也被wordpress org官方正式推荐。cloud hosting 15天内可以退款，shared hosting 30天内可以退款，也提供免费的SSL，速度很快，99.99％的时间正常运行，适合用来做外贸英文站。不过这货的付款对中国用户来说挺麻烦的，只能用visa/American express(运通卡)/mastercard的双币信用卡才可以付款，paypal的话需要联系客服，不支持支付宝。
 
 /
-关于选择主机方面，中文网站的话，通常推荐选用位于亚洲的虚拟主机空间，比如在中国香港、新加坡、韩国首尔或日本东京等地的主机。
+关于选择主机方面，中文网站的话，通常推荐选用位于亚洲的虚拟主机空间，比如在中国香港 台湾、新加坡、韩国首尔或日本东京等地方的主机或者服务器。
 
 关于wordpress：wordpress是目前互联网上最受欢迎的博客系统，全球前1000万的网站中，有超过30.6%的网站是用wordpress搭建的，所以如果你要搭建自己的独立博客或者网站的话，wordpress是一个很好的选择，本页面主要用来分享几个稳定、快速、好用的wordpress国外虚拟主机，不用备案，长期更新。
 
