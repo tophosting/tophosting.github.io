@@ -4,14 +4,13 @@
 
 工欲善其事，必先利其器
 
-不要用免费的域名或主机，原因很简单，免费的通常都不靠谱，免费的才是最贵的，俗话说得好：便宜无好货，好货不便宜；也不建议用国内的，不多解释。
+不要用免费的域名或主机/服务器(server)，原因很简单，免费的通常都不靠谱，免费的才是最贵的，俗话说得好：便宜无好货，好货不便宜；也不建议用国内的，不多解释。
 
 另外，注册域名的话，非常建议在[namesilo](https://www.namesilo.com/?rid=adf2827hj)上购买，价格实惠、简单好用没有骚扰邮件等，分享个优惠一美元的券：webcom
 
 主机的购买周期、空间大小、价格等具体内容，请到其各自的官方网站了详细了解，然后根据你的需要和偏好为你的博客或网站选择一个合适的。
 
-怎么样？
-以下所列出的国外虚拟主机都支持在第一次购买之后的规定期限内发起退款，so使用效果不满意的话，可以及时进行退款；都支持wordpress网站的快速安装，当然也都并不是仅仅支持wordpress
+以下所列出的国外虚拟主机(云主机 服务器等)都支持在第一次购买之后的规定期限内发起退款，so使用效果不满意的话，可以及时进行退款；都支持wordpress等网站平台的快速安装，当然也都并不是仅仅支持wordpress呢
 
 [. bluehost](https://www.bluehost.com/track/ykq/)，2003年在美国犹他州注册成立，顶级美国虚拟主机提供商，口碑非常好，有超过200万的网站在这里搭建，是世界上使用人数最多、最受欢迎的虚拟主机提供商，也是wordpress org官方推荐的虚拟主机之一，30天退款保证，wordpress一键安装，免费SSL证书，*客服证实所谓的bluehost中国与bluehost官网其实是两个不同的系统，不建议在bluehost中国上购买。*
 
@@ -28,4 +27,14 @@
 
 关于wordpress：wordpress是目前互联网上最受欢迎的博客系统，全球前1000万的网站中，有超过30.6%的网站是用wordpress搭建的，所以如果你要搭建自己的独立博客或者网站的话，wordpress是一个很好的选择，本页面主要用来分享几个稳定、快速、好用的wordpress国外虚拟主机，不用备案，长期更新。
 
-*稳定好用的wordpress主机推荐，本文长期更新*
+*稳定好用的(wordpress)虚拟主机(云主机 服务器等)推荐，长期更新*
+
+
+<!-- AddToAny BEGIN -->
+<div>
+<a href="https://www.addtoany.com/share#url=https%3A%2F%2Ftophosting.github.io&amp;title=" target="_blank"><img src="https://static.addtoany.com/buttons/a2a.svg" width="32" height="32" style="background-color:royalblue"></a>
+<a href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Ftophosting.github.io&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/facebook.svg" width="32" height="32" style="background-color:royalblue"></a>
+<a href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Ftophosting.github.io&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/twitter.svg" width="32" height="32" style="background-color:royalblue"></a>
+<a href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Ftophosting.github.io&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/email.svg" width="32" height="32" style="background-color:royalblue"></a>
+</div>
+<!-- AddToAny END -->
