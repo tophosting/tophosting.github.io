@@ -10,7 +10,7 @@
 
 以下所列出的国外虚拟主机(云主机 服务器空间等)都支持在第一次购买之后的规定期限内发起退款，so使用效果不满意的话，可以及时进行退款；都支持wordpress等网站平台的快速安装，当然也都并不是仅仅支持wordpress呢
 
-[. bluehost](https://www.bluehost.com/track/ykq/)，2003年在美国犹他州注册成立，顶级美国虚拟主机提供商，口碑非常好，有超过200万的网站在这里搭建，是世界上使用人数最多、最受欢迎的虚拟主机提供商，也是wordpress org官方推荐的虚拟主机之一，30天退款保证，wordpress一键安装，免费SSL证书，*客服证实所谓的bluehost中国与bluehost官网其实是两个不同的系统，不建议在bluehost中国上购买。*
+[. bluehost](https://www.bluehost.com/track/ykq/)，蓝色主机，2003年在美国犹他州注册成立，顶级美国虚拟主机提供商，口碑非常好，有超过200万的网站在这里搭建，是世界上使用人数最多、最受欢迎的虚拟主机提供商，也是wordpress org官方推荐的虚拟主机之一，30天退款保证，wordpress一键安装，免费SSL证书，*客服证实所谓的bluehost中国与bluehost官网其实是两个不同的系统，不建议在bluehost中国上购买，直接在[bluehost官网](https://www.bluehost.com/track/ykq/)上购买*
 
 [. hawk host](https://my.hawkhost.com/aff.php?aff=12414)，老鹰主机，总部位于加拿大安大略省，2004年开始运营，30天内退款保障，可以支付宝付款，其提供的主机主要分布在美国、加拿大、荷兰、新加坡和中国香港。
 
@@ -29,9 +29,9 @@
 
 关于wordpress：wordpress是目前互联网上最受欢迎的博客系统，全球前1000万的网站中，有超过30.6%的网站是用wordpress搭建的，所以如果你要搭建自己的独立博客或者网站的话，wordpress是一个很好的选择，本页面主要用来分享几个稳定、快速、好用的wordpress国外虚拟主机，不用备案，长期更新。
 
-Q: which hosting company allow my blog to get into both CHINA firewall and “outside”? Thanks
+Q: which hosting company allows my blog to get into both CHINA f*irewall and “outside”? Thanks
 
-A: [bluehost](https://www.bluehost.com/track/ykq/) and [hostgator](https://partners.hostgator.com/KBOoA) are both good hosting companies to run you blog. Both can get into china and the outside world.
+A: [bluehost](https://www.bluehost.com/track/ykq/), [site ground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c) and [hostgator](https://partners.hostgator.com/KBOoA) are very good hosting companies to run you blog, all can get into china and the outside world.
 
 *虚拟主机 推荐，稳定好用的(wordpress)虚拟主机(云主机 服务器等)推荐，长期更新*
 
