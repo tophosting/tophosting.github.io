@@ -1,12 +1,14 @@
-## 推荐几个稳定好用的wordpress国外虚拟主机(云主机 服务器等)，免备案，长期更新 2019
+## 推荐几个稳定好用的wordpress国外虚拟主机(云主机 服务器空间等)，免备案，长期更新 2019
 
 ![2019年wordpress博客主机推荐，免备案主机，wordpress网站，国外wordpress主机推荐，香港虚拟主机，美国主机，稳定好用的wordpress虚拟主机 网站主机推荐 好用的国外主机空间](https://raw.githubusercontent.com/tophosting/tophosting.github.io/master/img/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
 
 工欲善其事，必先利其器
 
+虚拟服务器(virtual hosting)一般是指用来存放网站的内容(比如文字、文件、图片、音频、视频、数据等)的主机空间，按照专用程度的不同，可以分为(WordPress)共享主机、(WordPress)专用主机、VPS、云主机及专用服务器等
+
 不要用免费的域名或主机空间/服务器(server)，原因很简单，免费的通常都不靠谱，免费的才是最贵的，俗话说得好：便宜无好货，好货不便宜；也不建议用国内的，不多解释。
 
-以下所列出的国外虚拟主机(云主机 服务器等)都支持在第一次购买之后的规定期限内发起退款，so使用效果不满意的话，可以及时进行退款；都支持wordpress等网站平台的快速安装，当然也都并不是仅仅支持wordpress呢
+以下所列出的国外虚拟主机(云主机 服务器空间等)都支持在第一次购买之后的规定期限内发起退款，so使用效果不满意的话，可以及时进行退款；都支持wordpress等网站平台的快速安装，当然也都并不是仅仅支持wordpress呢
 
 [. bluehost](https://www.bluehost.com/track/ykq/)，2003年在美国犹他州注册成立，顶级美国虚拟主机提供商，口碑非常好，有超过200万的网站在这里搭建，是世界上使用人数最多、最受欢迎的虚拟主机提供商，也是wordpress org官方推荐的虚拟主机之一，30天退款保证，wordpress一键安装，免费SSL证书，*客服证实所谓的bluehost中国与bluehost官网其实是两个不同的系统，不建议在bluehost中国上购买。*
 
