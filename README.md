@@ -6,7 +6,7 @@
 
 虚拟服务器(virtual hosting)一般是指用来存放网站的内容(比如文字、文件、图片、音频、视频、数据等)的主机空间，按照专用程度的不同，可以分为(WordPress)共享主机、(WordPress)专用主机、VPS、云主机及专用服务器等
 
-不要用免费的域名或主机空间/服务器(server)，原因很简单，免费的通常都不靠谱，免费的才是最贵的，俗话说得好：便宜无好货，好货不便宜；也不建议用国内的，不多解释。
+**不要用免费的域名或主机空间/服务器(server)** ，原因很简单，免费的通常都不靠谱，免费的才是最贵的，俗话说得好：便宜无好货，好货不便宜；也不建议用国内的，不多解释
 
 以下所列出的国外虚拟主机(云主机 服务器空间等)都支持在第一次购买之后的规定期限内发起退款，so使用效果不满意的话，可以及时进行退款；都支持wordpress等网站平台的快速安装，当然也都并不是仅仅支持wordpress呢
 
@@ -18,7 +18,7 @@
 
 [. sugarhosts](https://www.sugarhosts.com/members/aff.php?aff=3080)，糖果主机，2009年在英国爱尔兰成立，小于一年的订单提供7天无条件退款保证，一年(含)以上的订单30天无条件退款保证，wordpress一键安装，可以支付宝。
 
-[. site ground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c)，这个很不错，2003年在美国的田纳西州注册成立，它着重专注于对托管wordpress的支持和优化，也被wordpress org官方正式推荐。cloud hosting 15天内可以退款，shared hosting 30天内可以退款，也提供免费的SSL，速度很快，99.99％的时间正常运行，适合用来做外贸英文站。不过这货的付款对中国用户来说挺麻烦的，只能用visa/American express(运通卡)/mastercard的双币信用卡才可以付款，paypal的话需要联系客服，不支持支付宝。
+[. site ground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c)，这个很不错，2003年在美国的田纳西州注册成立，高性能的+专业的WordPress托管服务，主机很稳定，客服超级好。它着重专注于对托管wordpress的支持和优化，也被wordpress org官方正式推荐。cloud hosting 15天内可以退款，shared hosting 30天内可以退款，也提供免费的SSL，速度很快，99.99％的时间正常运行，适合用来做外贸英文站。不过这货的付款方式对中国用户来说挺麻烦的，只能用visa/American express(运通卡)/mastercard的双币信用卡才可以付款，paypal的话需要联系客服，不支持支付宝。
 
 /
 关于选择主机方面，中文网站的话，通常推荐选用位于亚洲的虚拟主机空间，比如在中国香港 台湾、新加坡、韩国首尔或日本东京等地方的主机或者服务器。
@@ -33,7 +33,7 @@ Q: which hosting company allow my blog to get into both CHINA firewall and “ou
 
 A: [bluehost](https://www.bluehost.com/track/ykq/) and [hostgator](https://partners.hostgator.com/KBOoA) are both good hosting companies to run you blog. Both can get into china and the outside world.
 
-*稳定好用的(wordpress)虚拟主机(云主机 服务器等)推荐，长期更新*
+*虚拟主机 推荐，稳定好用的(wordpress)虚拟主机(云主机 服务器等)推荐，长期更新*
 
 
 <!-- AddToAny BEGIN -->
