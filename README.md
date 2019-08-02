@@ -20,7 +20,7 @@
 
 [. site ground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c)，这个很不错，2003年在美国的田纳西州注册成立，高性能的+专业的WordPress托管服务，主机很稳定，客服超级好。它着重专注于对托管wordpress的支持和优化，也被wordpress org官方正式推荐。cloud hosting 15天内可以退款，shared hosting 30天内可以退款，也提供免费的SSL，速度很快，99.99％的时间正常运行，适合用来做外贸英文站。不过这货的付款方式对中国用户来说挺麻烦的，只能用visa/American express(运通卡)/mastercard的双币信用卡才可以付款，paypal的话需要联系客服，不支持支付宝。
 
-[. wpengine](https://shareasale.com/r.cfm?b=1343154&u=2033771&m=41388&urllink=&afftrack=)，简单说：很好用，同时也很贵，如果没有特别需要，上面所列的[siteground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c)、[bluehost](https://www.bluehost.com/track/ykq/)或[hawkhost](https://my.hawkhost.com/aff.php?aff=12414)一般就够用了。wpengine于2010年在美国德克萨斯州成立，意如其名-WP Engine：wordpress的引擎，是一个专门为WordPress提供托管的豪华主机服务商，定位于WP高端主机市场，适合用来外贸和公司网站等，只接受国际信用卡（visa mastercard等）付款，本页面提供的购买[优惠](https://shareasale.com/r.cfm?b=1343154&u=2033771&m=41388&urllink=&afftrack=)：60天内可退款，年付优惠3个月，月付31美元，StudioPress付费主题免费用，反正就是很贵很好用...
+[. wpengine](https://shareasale.com/r.cfm?b=1343154&u=2033771&m=41388&urllink=&afftrack=)，简单说：很好用，同时也很贵，如果没有特别需要，上面所列的[siteground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c)、[bluehost](https://www.bluehost.com/track/ykq/)或[hawkhost](https://my.hawkhost.com/aff.php?aff=12414)一般也就够用了。wpengine于2010年在美国德克萨斯州成立，意如其名-WP Engine：wordpress的引擎，是一个专门为WordPress提供托管的豪华主机服务商，定位于WP高端主机市场，适合用来外贸和公司网站等，只接受国际信用卡（visa mastercard等）付款，本页面提供的购买[优惠](https://shareasale.com/r.cfm?b=1343154&u=2033771&m=41388&urllink=&afftrack=)：60天内可退款，年付优惠3个月，月付31美元，StudioPress付费主题免费用，反正就是很贵很好用...
 
 /
 关于选择主机方面，中文网站的话，通常推荐选用位于亚洲的虚拟主机空间，比如在中国香港 台湾、新加坡、韩国首尔或日本东京等地方的主机或者服务器。
