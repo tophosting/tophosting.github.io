@@ -1,6 +1,6 @@
 ## 推荐几个稳定好用的(wordpress)国外虚拟主机(云主机 服务器空间等)，免备案，长期更新 2019
 
-![2019年wordpress博客主机推荐，免备案主机，wordpress网站，国外wordpress主机推荐，香港虚拟主机，美国主机，稳定好用的wordpress虚拟主机 网站主机推荐 好用的国外主机空间](https://raw.githubusercontent.com/tophosting/tophosting.github.io/master/img/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
+![wordpress博客主机推荐，免备案主机，wordpress网站，国外wordpress主机推荐，香港虚拟主机，美国主机，稳定好用的wordpress虚拟主机 网站主机推荐 好用的国外主机空间](https://raw.githubusercontent.com/tophosting/tophosting.github.io/master/img/best-wordpress-hosting-providers.jpg "好用的wordpress虚拟主机")
 
 工欲善其事，必先利其器
 
