@@ -23,9 +23,9 @@
 + [WPengine](https://shareasale.com/r.cfm?b=1343154&u=2033771&m=41388&urllink=&afftrack=)，简单说：很好用，同时也很贵，如果没有特别需要，上面所列的[siteground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c)、[bluehost](https://www.bluehost.com/track/ykq/)或[hawkhost](https://my.hawkhost.com/aff.php?aff=12414)一般也就够用了。wpengine于2010年在美国德克萨斯州成立，顾名思义-WP Engine：wordpress的引擎，是一个专门为WordPress提供托管的豪华主机服务商，定位于WP高端主机市场，适合用来外贸和公司网站或高端个人博客等，只接受国际信用卡（visa mastercard等）付款，本页面提供的购买[优惠](https://shareasale.com/r.cfm?b=1343154&u=2033771&m=41388&urllink=&afftrack=)：60天内可退款，年付优惠3个月，月付31美元，StudioPress付费主题免费用，反正就是很贵很好用...
 
 /
-关于选择主机方面，中文网站的话，通常推荐选用位于亚洲的虚拟主机空间，比如在中国香港 台湾、新加坡、越南、菲律宾、韩国首尔或日本东京等地方的主机或者服务器。
+关于选择主机方面，中文网站的话，通常推荐选用位于亚洲的虚拟主机空间，比如在新加坡、香港、台湾、韩国或日本等地方的主机或者服务器
 
-主机的购买周期、空间大小、价格等具体内容，请到其各自的官方网站了详细了解，然后根据你的需要和偏好为你的博客或网站选择一个合适的。
+主机的购买周期、空间大小、价格等具体内容，请到其各自的官方网站了详细了解，然后根据你的需要和偏好为你的博客或网站选择一个合适的
 
 另外，注册域名的话，非常建议在[namesilo](https://www.namesilo.com/?rid=adf2827hj)上购买，价格实惠、简单好用没有骚扰邮件等，分享个优惠一美元的券：webcom
 
@@ -35,11 +35,11 @@ __一个简单的博客，安静的写作吧__
 
 Q: which hosting company allows my blog to get into both CHINA f*irewall and “outside”? Thanks
 
-A: [bluehost](https://www.bluehost.com/track/ykq/), [site ground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c) and [hostgator](https://partners.hostgator.com/KBOoA) are very good hosting companies to run you blog, all can get into china and the outside world.
+A: [bluehost](https://www.bluehost.com/track/ykq/), [site ground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c) and [hostgator](https://partners.hostgator.com/KBOoA) are very good hosting companies to run you blog, all can get into china and the outside world
 
-本页面主要用来分享几个稳定、快速、好用的wordpress国外虚拟主机，不用备案，长期更新。
+本页面主要用来分享几个稳定、快速、好用的wordpress国外虚拟主机，不用备案，长期更新
 
-*虚拟主机 推荐，稳定好用的(wordpress)虚拟主机(云主机 服务器等)推荐，长期更新*
+*虚拟主机 推荐，稳定好用的(wordpress)虚拟主机(云主机 服务器等)推荐*
 
 
 <!-- AddToAny BEGIN -->
