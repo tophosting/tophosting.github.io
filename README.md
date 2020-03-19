@@ -14,7 +14,7 @@
 
 + [Site ground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c)，放在第一位了，这个真很不错，2003年在美国注册成立，高性能的专业的WordPress托管服务支持，主机很稳定，客服超级好，免费ssl，每天备份(备份最近30天)。它着重专注于对托管wordpress的支持和优化，也被wordpress org官方正式推荐。cloud hosting 两个星期14天内可以退款，shared wordpress hosting 一个月30天内可以退款，也提供免费的CDN，速度很快，99.99％的时间正常运行，wordpress自动更新，适合用来做外贸英文站或者高品质的个人博客网站等。不过这货的付款方式对中国用户来说挺麻烦的，只能用visa/American express(运通卡)/mastercard的双币信用卡才可以付款，paypal的话需要在购买的时候联系客服SALES Chat，不支持支付宝。
 
-+ [Hawk host](https://my.hawkhost.com/aff.php?aff=12414)，老鹰主机，总部位于加拿大安大略省，2004年开始运营，30天内退款保障，可以支付宝付款，其提供的主机主要分布在美国、加拿大、荷兰、新加坡和中国香港。
++ [Hawk host](https://my.hawkhost.com/aff.php?aff=12414)，老鹰主机，总部位于加拿大安大略省，2004年开始运营，稳稳的，速度、品质、客服等都很赞，30天内退款保障，可以支付宝付款，其提供的主机主要分布在美国、加拿大、荷兰、新加坡和中国香港。
 
 + [Hostgator](https://partners.hostgator.com/KBOoA)，总部位于美国的德克萨斯州，2002年开始运营，俗称 鳄鱼主机。支持wordpress的快速安装，提供免费的SSL(https)证书，45天退款保障。有专门的[中文网站](https://partners.hostgator.com/9Vnb0)，可以支付宝付款。
 
