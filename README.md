@@ -4,6 +4,10 @@
 
 工欲善其事，必先利其器
 
+wordpress是目前互联网上最受欢迎的网站建站平台，经过多年的发展，技术成熟，功能强大，插件和主题丰富，操作方便，从wordpress.com的资料显示，39%的网页是通过WordPress搭建，越来越多的博主、小型企业和《财富》500 强公司使用WordPress来搭建网站或博客。
+
+wordpress.com本身就是通过wordpress.org平台搭建的一个博客管理网站，其主要区别在于网站托管方式的不同，wordpress.com提供免费的主机托管和二级域名，但是会有很多限制比如广告和对网站的所有权等，通过wordpress.org创建的独立网站则需要购买托管主机和域名，用户拥有网站的所有权，如果你要搭建自己的独立博客或者网站的话，wordpress是一个很好的选择。
+
 **不要用免费的域名(domain)或主机空间(hosting)/服务器(server)等** ，原因很简单，免费的通常都不靠谱，靠谱的通常都不免费，免费的才是最贵的，俗话说得好：便宜无好货，好货不便宜；也不建议用国内的，不多解释
 
 一般来说，创建个人独立博客或公司商业网站的主要费用是购买托管主机hosting的费用，域名domain费用次之
@@ -13,6 +17,8 @@
 以下所推荐的国外虚拟主机空间都支持在第一次购买之后的规定期限内发起退款，so使用效果不满意的话，可以及时进行退款；都支持wordpress等网站平台的快速安装，当然也都并不是仅仅支持wordpress呢；都有及时有效和温馨的在线客服支持
 
 + [Site ground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c)，综合效果最好的，放在第一位了，这个真很不错，2003年在美国注册成立，高性能的专业的WordPress托管服务支持，主机很稳定，客服超级好，免费ssl，每天备份(备份最近30天)。它着重专注于对托管wordpress的支持和优化，也被wordpress org官方正式推荐，支持对WordPress网站快速高效的主机迁移。cloud hosting 两个星期14天内可以退款，shared wordpress hosting 一个月30天内可以退款，也提供免费的CDN，速度很快，99.99％的时间正常运行，wordpress自动更新，适合用来做外贸英文站或者高品质的个人博客网站等。不过这货的付款方式对中国用户来说挺麻烦的，只能用visa/American express(运通卡)/mastercard的双币信用卡才可以付款，paypal的话需要在购买的时候联系客服(SALES Chat)说明情况，不支持支付宝。
+
+[![好用的wordpress国外虚拟主机推荐siteground](https://uapi.siteground.com/img/affiliate/en/USD/general_EN_USD_general-hosting-leaderboard-light.jpg)](https://www.siteground.com/go/9u7r6wm5bd)
 
 + [Hawk host](https://my.hawkhost.com/aff.php?aff=12414)，老鹰主机，总部位于加拿大安大略省，稳稳的，2004年开始运营，很注重用户体验，速度、品质、价格、客服等都很赞，30天内退款保障，可以支付宝付款，它提供的主机主要分布在美国、加拿大、荷兰、新加坡和中国香港，推荐购买其位于新加坡或香港的服务器。
 
@@ -30,8 +36,6 @@
 主机的购买周期、空间大小、价格等具体内容，请到其各自的官方网站了详细了解，然后根据你的需要和偏好为你的博客或网站选择一个合适的主机空间
 
 另外，注册域名的话，非常建议在[namesilo](https://www.namesilo.com/?rid=adf2827hj)上购买(不要在主机服务商那里购买域名)，价格实惠、简单好用没有骚扰邮件等，分享一个优惠一美元的优惠码：webcom
-
-关于wordpress：wordpress是目前互联网上最受欢迎的博客系统，美国白宫官方网站(whitehouse.gov)在采用wordpress框架重新设计后，每年可以节省300万美元左右的网站维护费用，全球前1000万的网站中，有超过1/3的网站是用wordpress搭建的[根据2020年wikipedia信息]，所以如果你要搭建自己的独立博客或者网站的话，wordpress是一个很好的选择
 
 __一个简单的博客，安静的写作吧__
 
